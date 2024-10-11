@@ -28,6 +28,8 @@ Shortcuts I would like to start using:
 
 
 ## Links
+[CLI commands](docs/cli.md)
+
 [W3Schools](https://www.w3schools.com/)
 
 [GitHub Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
